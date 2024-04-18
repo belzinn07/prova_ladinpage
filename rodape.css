@@ -105,3 +105,14 @@ form{
            margin: 10px 0px 0px 0px;
        }
 
+       .fs button{
+        height: 50px;
+        width: 150px;
+        background-color: #3533cd;
+        border-radius: 50px;
+        margin-left: 25px;
+        color: white;
+        font-family: fantasy;
+        font-size: 15px;
+       }
+
