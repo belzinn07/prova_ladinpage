@@ -6,7 +6,7 @@
 
 
 body{
-    background-image:linear-gradient(130deg,#3700ff,#7c07db,#8400ff);
+    background-image:linear-gradient(130deg,#000000, #666666);
     z-index: 0;
    
 
@@ -64,9 +64,8 @@ h1{
 
 .banner {
     color: white;
-    
     width:1580px;
-    height: 900px;
+    height: 700px;
     font-size: 50px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
@@ -167,7 +166,7 @@ text-align: center;
 
 p{
 margin-top: 100px;
-font-size: 100px;
+font-size: 120px;
 margin-left: 100px;
 font-family: fantasy;
 }
@@ -186,7 +185,7 @@ font-family: fantasy;
 }
 
 .b{
-    font-size: 90px;
+    font-size: 50px;
 }
 
 .banner img{
@@ -194,6 +193,52 @@ font-family: fantasy;
    height: 1000px;
   
 }
+
+.conteudo{
+   
+    background-image: linear-gradient(130deg,white, grey);
+    height: 1150px;
+    
+}
+
+.cont{
+   
+   font-size: 30px;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-top: 20px;
+   margin-left: 20px;
+   border: 50px;
+   border-radius: 35px black;
+   
+}
+
+.conteudo ul li img{
+    
+    margin-left: 100px;
+    margin-top: 60px;
+}
+
+.conteudo ul li p{
+    border: 2px black;
+   border-radius: 50px ;
+
+}
+
+.banner button{
+    height: 50px;
+    width: 80px;
+    margin-left: 800px;
+}
+
+.banner ul li{
+    display: flex;
+
+}
+
+
+
+
+
 
 
 
