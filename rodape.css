@@ -112,7 +112,20 @@ form{
         border-radius: 50px;
         margin-left: 25px;
         color: white;
-        font-family: fantasy;
+       
         font-size: 15px;
+        
        }
+       
+
+      .fs button:hover {
+        transform: scale(1.2);
+
+      }
+    
+ .code{
+    margin-left: 50px;
+    margin-top: -120px;
+ }
+
 
